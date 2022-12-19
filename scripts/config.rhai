@@ -1,8 +1,8 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["Fake", "News", "Information", "Rumor", "Rumour"];
-let titles_method = [];
+let titles_method = ["GNN"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = [];
+let authors_array = ["Fan Weijian"];
 
 let conferences = [
     // AI
