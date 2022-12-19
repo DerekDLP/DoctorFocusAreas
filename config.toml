@@ -1,6 +1,6 @@
 site_title = "MyArxiv"
-limit_days = 7
-cache_url = "https://mlnlp-world.github.io/MyArxiv/cache.json"
+limit_days = 3652
+cache_url = "https://derekdlp.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
@@ -9,13 +9,13 @@ title = "Computation and Language"
 
 [[sources]]
 limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
+category = "cs.IR"
+title = "Information Retrieval"
 
 [[sources]]
 limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
+category = "cs.CY"
+title = "Computers and Society"
 
 [[sources]]
 limit = 150
@@ -26,6 +26,27 @@ title = "Machine Learning"
 limit = 150
 category = "cs.MM"
 title = "Multimedia"
+
+[[sources]]
+limit = 150
+category = "cs.AI"
+title = "Artificial Intelligence"
+
+[[sources]]
+limit = 150
+category = "cs.SI"
+title = "Social and Information Networks"
+
+[[sources]]
+limit = 150
+category = "stat.ML"
+title = "Machine Learning"
+
+[[sources]]
+limit = 150
+category = "cs.CV"
+title = "Computer Vision and Pattern Recognition"
+
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
