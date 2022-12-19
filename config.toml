@@ -1,6 +1,6 @@
-site_title = "MyArxiv"
+site_title = "DoctorFocusAreas"
 limit_days = 3652
-cache_url = "https://derekdlp.github.io/MyArxiv/cache.json"
+cache_url = "https://derekdlp.github.io/DoctorFocusAreas/cache.json"
 
 [[sources]]
 limit = 150
